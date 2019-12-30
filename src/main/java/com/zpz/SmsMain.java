@@ -18,6 +18,8 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 public class SmsMain {
     public static void main(String[] args) {
+
         SpringApplication.run(SmsMain.class);
+        System.out.println("zzj.....test");
     }
 }
